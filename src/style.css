@@ -8,9 +8,7 @@
   background-repeat: no-repeat;
   background-position: top left;
   box-sizing: border-box;
-  background-color: #0a2f06;
 }
-
 
 .p {
   font-family: "Roboto";
@@ -86,5 +84,57 @@
   font-size: 18px;
   line-height: 170.19%;
   text-align: center;
+  color: #273029;
+}
+
+.section-title-1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 95%;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #7ab674;
+}
+
+.s1-left > h1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 95%;
+  color: #273029;
+}
+
+.s1-left > h1 > span {
+  color: #b09b8c;
+}
+
+.section-info-1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 170.19%;
+  color: #959595;
+  margin-top: 32px;
+}
+
+.card-1-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 95%;
+  color: #7ab674;
+}
+
+.card-items-1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
   color: #273029;
 }
